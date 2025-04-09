@@ -1,3 +1,3 @@
 def slice_advanced():
-    algo = input()
-    print(algo[4:13:2])
+    text = input()
+    print(text[4:13:2])
